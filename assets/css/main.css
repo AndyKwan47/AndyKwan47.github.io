@@ -1757,7 +1757,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 48px;
 			height: 48px;
-			background: #f00;
+			background: #00FFFFFF;
 		}
 
 			.image.avatar48 img {
@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/stars-night.gif");
 			}
 
 			#main > section.two {
@@ -2586,7 +2586,7 @@ input, select, textarea {
 			}
 
 			h2 {
-				font-size: 1.5em;
+				font-size: 2em;
 				letter-spacing: 0;
 				font-weight: 300;
 			}
